@@ -1,0 +1,3 @@
+include hyperkeks/config/deployment.ini_tmpl
+recursive-include hyperkeks/public *
+recursive-include hyperkeks/templates *
